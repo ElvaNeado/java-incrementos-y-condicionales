@@ -1,3 +1,4 @@
+<img width="1152" height="648" alt="1ra evidencia" src="https://github.com/user-attachments/assets/9df2d114-1318-4b56-996e-d2ce7d453c15" />
 # Markdown Cheat Sheet (Example File)
 
 This is a **generic Markdown template** showcasing essential formatting features.
@@ -26,11 +27,14 @@ El propósito de esta actividad es afianzar los conceptos fundamentales de la pr
 *(Para insertar una imagen en Markdown coloca la ruta o enlace en la sintaxis `![Descripción](ruta-de-la-imagen.png)`)*
 
 * **Programa 1: Sistema de Aprobación de Crédito**
-  ![Ejecución Crédito](ruta_o_link_imagen_1.png)
+  ![Ejecución Crédito](ruta_o_li<img width="1152" height="648" alt="1ra evidencia" src="https://github.com/user-attachments/assets/603847b2-dc35-405a-9f68-ca2dff427955" />
+nk_imagen_1.png)
 * **Programa 2: Clasificación de Pasajeros de Aerolínea**
-  ![Ejecución Aerolínea](ruta_o_link_imagen_2.png)
+  ![Ejecución Aerolínea](ruta_o_li<img width="1152" height="648" alt="Evidencia 2" src="https://github.com/user-attachments/assets/9ba82a67-6435-4ef5-bb45-7706f21ab887" />
+nk_imagen_2.png)
 * **Programa 3: Comparativa de Preincremento y Posincremento**
-  ![Ejecución Incrementos](ruta_o_link_imagen_3.png)
+  ![Ejecución Incrementos](ruta_<img width="1152" height="648" alt="Evidencia 3" src="https://github.com/user-attachments/assets/97567821-0e0a-4324-8ff0-adb553337507" />
+o_link_imagen_3.png)
 
 ### Explicación de Resultados
 * **Sistema de Crédito:** El programa evalúa tres condiciones (`ingresos`, `puntajeDeCredito` y `añosLaborados`). Según el cumplimiento de todas o algunas de las condiciones, determina correctamente el estado del crédito (*Aprobado*, *Condicionado* o *No aprobado*).
